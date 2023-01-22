@@ -1,6 +1,10 @@
 # itlb_poc
 iTLB multihit PoC
 
+Article: https://www.tacitosecurity.com/multihit.html
+
+**UPDATE**: included older trigger under `trigger_old/`.
+
 
 ## How to use
 - For most hypervisors (and Gen1 on hyper-v): create a VM with a bootable disk pointing to `poc_bios.iso`.
